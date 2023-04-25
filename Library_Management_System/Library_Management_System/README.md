@@ -25,6 +25,3 @@ This project has been designed for our Database Management Systems subject. This
 You'll need XAMP Server or WAMP Server to run this. Put the file inside "c:/wamp/www/" or "c:/xampp/htdocss/". Go to "localhost/phpmyadmin" in any browser and create Database (name according to the SQL file). In that databse, import the SQL file and finally go to the URL: "http://localhost/file_name/phpfilename". Create a database and import the SQL file to run.
 
 
-## *Contributers*:
-1. Hemanth Nag
-2. Madhumitha Venkatesan
